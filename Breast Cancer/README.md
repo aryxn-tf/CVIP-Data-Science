@@ -1,0 +1,1 @@
+Breast cancer detection using 4 different models i.e. Logistic Regression, KNN, SVM and Decision Tree Machine Learning models and optimising them for even a better accuracy. This project is started with the goal use machine learning algorithms and learn how to optimize the tuning params and also and hopefully to help some diagnoses.
